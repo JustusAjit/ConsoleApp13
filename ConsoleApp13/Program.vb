@@ -41,7 +41,7 @@ Module StudentManagementSystem
             Select Case choice
                 Case 1
                     ' Add Student
-                    If count < 10 Then
+                    If count < 100 Then
                         Console.Write("Enter Student Name: ")
                         Dim name As String = Console.ReadLine()
                         Console.Write("Enter Roll Number: ")
