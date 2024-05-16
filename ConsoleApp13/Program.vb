@@ -22,7 +22,7 @@ Class Student
     End Sub
 End Class
 
-Module StudentManagementSystem
+Module StudentSystem
     Sub Main()
         ' Define an array to hold student objects
         Dim students(10) As Student
